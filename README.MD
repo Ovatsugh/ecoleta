@@ -72,6 +72,4 @@ O mestre [Diego Fernandes](https://github.com/diego3g)
 
 ## 📝License
 
-This project is under MIT. See at here LICENSE for more informations.
-
 **Créditos pelo README: [João Neto](https://github.com/JoaoCFN)**
